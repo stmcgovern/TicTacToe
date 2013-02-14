@@ -1,3 +1,3 @@
 Tic Tac Toe
 
-ITs a game!
+It's a game!
